@@ -49,10 +49,10 @@ global.inrl_key = `inrl-bot-mdaqz3ks6md7`;
 global.inrl_api = `https://upper-romy-inrl-bot.koyeb.app/`;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
-global.email     = 'support@maher-zubair.tech' ; 
-global.github    = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
-global.location  = 'Lahore, Pakistan' ;
-global.website   = 'https://maher-zubair.tech' ; 
+global.email     = 'geemkuu0@gmail.com' ; 
+global.github    = 'https://github.com/Geemkuu/SIGMA-MD' ;
+global.location  = 'hapo nje ,kwenyu' ;
+global.website   = 'https://Whatsapp.com/chat/254700569709?text=hey+gee' ; 
 global.maher_api = process.env.MAHER_API || `https://api.maher-zubair.tech/` ; // MY OWN OFFICIAL API WEBSITE, YOU CAN USE IT IN YOUR BOT OR PROJECT
 //=================================================================================
 
